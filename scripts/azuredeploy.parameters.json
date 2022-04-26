@@ -15,13 +15,13 @@
       "value": "northeurope"
     },
     "CosmosLocationName": {
-      "value": "North Europe"
+      "value": "North"
     },
     "CosmosPairedLocation": {
       "value": "westeurope"
     },
     "CosmosPairedLocationName": {
-      "value": "West Europe"
+      "value": "West"
     }
   }
 }
